@@ -1,4 +1,4 @@
-# practice_making_app
+# The_Bible_of_TMO
 BiPlug를 이용한 app 개발
 
 랜딩페이지: https://www.biplug.co.kr/projects/TheBibleofTMO/view/mobile/introduceApp?code=b887d6f71fa84026b1623df37f1caec6
